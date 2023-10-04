@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Ti khon khng c b trng_el-input__inner_1</name>
+   <tag></tag>
+   <elementGuidId>fce74fb5-18d0-4922-824c-8c28892d6491</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login__form--password > div.el-input > input.el-input__inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7e317869-b697-42fb-9caf-d3f7cbccd5ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>272ed6c0-914b-4d0e-a442-c48d36026cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>5fbfa665-a99a-45b1-9efa-1faff76e8739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Mật khẩu</value>
+      <webElementGuid>bf48485a-ad31-4245-94b7-4b597f833314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-input__inner</value>
+      <webElementGuid>0c086353-925e-45bb-8115-11931ecf058b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;el-popup-parent--hidden&quot;]/div[@class=&quot;layout&quot;]/div[1]/div[@class=&quot;theme-default&quot;]/div[@class=&quot;login&quot;]/div[@class=&quot;el-dialog__wrapper&quot;]/div[@class=&quot;el-dialog&quot;]/div[@class=&quot;el-dialog__body&quot;]/form[@class=&quot;el-form login__form&quot;]/div[@class=&quot;el-form-item is-required&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;login__form--password&quot;]/div[@class=&quot;el-input&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
+      <webElementGuid>f2b2c48a-fdb8-4367-9a42-2bc80367f080</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='password']</value>
+      <webElementGuid>8be1bc70-d718-41c8-bdfa-45da7d5dbfc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/input</value>
+      <webElementGuid>1d02ce16-486f-4e0c-b973-a414cdd1463e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @placeholder = 'Mật khẩu']</value>
+      <webElementGuid>c68e2095-e1ba-4f56-91b1-762e6d945e23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

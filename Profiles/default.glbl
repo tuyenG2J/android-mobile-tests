@@ -11,11 +11,6 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Your message has been sent. View message'</initValue>
-      <name>G_NotificationMessage</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
       <initValue>'androidapp/APIDemos.apk'</initValue>
       <name>G_AppPath</name>
    </GlobalVariableEntity>
@@ -28,5 +23,10 @@
       <description></description>
       <initValue>'https://katalon-demo-cura.herokuapp.com/'</initValue>
       <name>G_SiteURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Screenshot/'</initValue>
+      <name>ScreenShotPath</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

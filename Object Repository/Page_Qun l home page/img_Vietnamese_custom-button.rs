@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Vietnamese_custom-button</name>
+   <tag></tag>
+   <elementGuidId>51bcbab0-52a2-4cc0-ac15-c0e8856b38ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.el-dropdown-link.el-dropdown-selfdefine.focusing > img.custom-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>529e185d-5754-4f93-8b4e-06d34448e8e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>fa995e66-d059-4481-a043-4419c587142f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/img/avatar.png</value>
+      <webElementGuid>093162ac-a45e-47be-a993-2c78370eb31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-button</value>
+      <webElementGuid>6da38365-ea9f-4241-a03d-8e3d74fb035d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;app&quot;]/div[@class=&quot;member-layout&quot;]/section[@class=&quot;el-container&quot;]/section[@class=&quot;el-container is-vertical&quot;]/header[@class=&quot;el-header member-layout__header active&quot;]/div[@class=&quot;header-bar&quot;]/div[3]/div[@class=&quot;language-account-info&quot;]/div[2]/div[@class=&quot;el-dropdown&quot;]/span[@class=&quot;el-dropdown-link el-dropdown-selfdefine focusing&quot;]/img[@class=&quot;custom-button&quot;]</value>
+      <webElementGuid>3efb8871-2ab5-46d8-a930-a7bb1bdf7d82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/img</value>
+      <webElementGuid>d824ccb1-a312-48b8-aba4-51f01f43ed33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/img/avatar.png']</value>
+      <webElementGuid>ed63ed44-1a7b-44fd-8222-a93f418df414</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
